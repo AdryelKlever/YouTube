@@ -1,2 +1,2 @@
 # YouTube
-Aplicaitivo igual o YouTube, porém mostra apenas os vídeos do meu canal. 
+Aplicaitivo que consume api do YouTube, porém mostra apenas os vídeos do meu canal. 
